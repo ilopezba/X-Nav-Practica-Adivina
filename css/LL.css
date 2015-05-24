@@ -1,0 +1,10 @@
+
+html, body, #map {
+    width: 600px; 
+	height: 400px;
+	float: left;
+}
+html, body, #fotos {
+	float: left;
+
+}

@@ -1,0 +1,25 @@
+
+{
+	"version": "0.1",
+	"name": "AdivinaApp",
+	"description": "Aplicación que consiste en, con una serie de fotos, adivinar un lugar",
+	"launch_path": "/index.html",
+	"icons": {
+		"16": "/images/icono.png",
+		"48": "/images/icono.png",
+		"128": "/images/icono.png"
+	},
+
+	"developer": {
+		"name": "Iván López Barrio"
+	},
+
+
+	"permissions": {
+		"geolocation": {
+			"description": "Access to your position"
+		}
+	},
+
+	"default_locale": "es"
+}
