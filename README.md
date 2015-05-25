@@ -10,8 +10,6 @@ Detalles del enunciado en el programa de la asignatura.
 
 ## Formulario
 
-Formulario
-
 · Nombre de su cuenta en el laboratorio del alumno: ilopezba
 
 · Resumen de las peculiaridades que se quieran mencionar sobre lo implementado en la parte obligatoria:
