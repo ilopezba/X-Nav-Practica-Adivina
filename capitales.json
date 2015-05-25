@@ -1,0 +1,20 @@
+{ "type": "FeatureCollection",
+    "lista": [
+      { "properties": {"name": "Paris"},
+        "coordinates": [48.855810, 2.353755]
+        },
+      { "properties": {"name": "Berlín"},
+        "coordinates": [52.520496, 13.432690]
+        },
+      {
+        "properties": {"name": "Washington D. C."},
+        "coordinates": [38.907631, -77.049929]
+        },
+      { "properties": {"name": "Brasilia"},
+        "coordinates": [-15.839048, -47.839703]
+        },
+      { "properties": {"name": "Pekin"},
+        "coordinates": [39.894119, 116.398146]
+        }
+       ]
+}

@@ -1,0 +1,20 @@
+{ "type": "FeatureCollection",
+    "lista": [
+      { "properties": {"name": "Renault"},
+        "coordinates": [48.861005, 2.347575]
+        },
+      { "properties": {"name": "CocaCola"},
+        "coordinates": [33.756011, -84.387988]
+        },
+      {
+        "properties": {"name": "Porche"},
+        "coordinates": [52.513393, 13.407970]
+        },
+      { "properties": {"name": "Dell"},
+        "coordinates": [30.288197, -97.733489]
+        },
+      { "properties": {"name": "Google"},
+        "coordinates": [37.390045, -122.071482]
+        }
+       ]
+}

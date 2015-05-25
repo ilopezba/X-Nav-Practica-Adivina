@@ -1,0 +1,20 @@
+{ "type": "FeatureCollection",
+    "lista": [
+      { "properties": {"name": "RealMadrid"},
+        "coordinates": [40.411953, -3.698419]
+        },
+      { "properties": {"name": "A.C. Milan"},
+        "coordinates": [45.463095, 9.184770]
+        },
+      {
+        "properties": {"name": "bayern munich"},
+        "coordinates": [48.135439, 11.582005]
+        },
+      { "properties": {"name": "Manchester United Football Club"},
+        "coordinates": [53.477763, -2.230115]
+        },
+      { "properties": {"name": "Paris Saint-Germain"},
+        "coordinates": [48.856487, 2.351351]
+        }
+       ]
+}
