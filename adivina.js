@@ -56,7 +56,6 @@ function getfotos(){
 	lat = ale.coordinates[0];
 	long = ale.coordinates[1];
 	lugar = ale.properties.name;
-	alert("Lugar : " + lugar);
 //pido fotos
     $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?",
         {
@@ -200,7 +199,6 @@ function resumegame(pos){
 		window.history.go(-(window.history.length+pos));
 	}
 	oldgame = true;
-	alert("volver a jugar: "+pos+"suma "+(window.history.length-pos));
 }
 
 function historygames(){
