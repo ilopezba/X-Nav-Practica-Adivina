@@ -222,7 +222,6 @@ function historygames(){
 		+JSON.stringify(Puntuacion)+"</li>";
 		
 		var ira= +window.history.length;
-		alert("vuelvo" +ira)
 		for(i=1; i<cambiosHistory;i++){
 				window.history.forward();
 	   	}
